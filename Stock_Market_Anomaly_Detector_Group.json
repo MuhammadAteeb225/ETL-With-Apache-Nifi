@@ -1859,7 +1859,7 @@
           "schema-name": "outputSchema",
           "cache-size": "1000",
           "schema-registry": "c98fb38f-7e27-3496-9254-727cdd6a5e05",
-          "schema-access-strategy": "schema-name",
+          "schema-access-strategy": "embedded-avro-schema",
           "schema-version": null,
           "schema-text": "${avro.schema}"
         },
